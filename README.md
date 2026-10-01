@@ -9,8 +9,8 @@ I like understanding how systems work, solving difficult problems, and turning i
 ## What I bring
 
 - A strong mathematical and algorithmic foundation from competitive programming and olympiad training
-- Practical programming experience with Python, C++ and SQL
-- Hands-on experience with robotics, Arduino and hardware-based projects
+- Practical programming experience with different programming languages
+- Hands-on experience with robotics and hardware-based projects
 - Experience explaining technical concepts and mentoring 20+ students
 - Curiosity, persistence, and an engineering mindset focused on building and improving systems
 
@@ -26,30 +26,10 @@ Relevant focus areas:
 - Data structures and algorithms
 - Python, C++, SQL, Linux, and Git
 
-## Featured projects
-
-These projects show my progression from programming fundamentals and algorithms toward practical software and AI-related engineering.
-
-- [Lyrics Studio](https://github.com/EmmaKarapetyan/text_editor) — Browser-based lyrics and subtitle editor with local media processing, transcription, timeline editing, and video export.
-- [Ecosystem Simulation](https://github.com/EmmaKarapetyan/EcosystemSimulationJS) — JavaScript and p5.js simulation of interacting plants, animals, predators, and environmental events.
-- [Helpful Telegram Bot](https://github.com/EmmaKarapetyan/Helpful_Bot) — Python Telegram bot with translation, data generation, and email-breach-checking utilities.
-- [Tic Tac Toe](https://github.com/EmmaKarapetyan/TicTacToe) — Game with PyQt and Telegram interfaces, including easy and unbeatable modes.
-- [ToDo App](https://github.com/EmmaKarapetyan/ToDoApp) — Flutter application for creating, completing, deleting, and locally persisting tasks.
-
-## Machine learning development
-
-I am actively building my ML/DL foundation through:
-
-- Neural networks, backpropagation, and optimization
-- CNNs, RNNs, attention mechanisms, and Transformer architectures
-- Practical MLOps concepts
-- Implementing and experimenting with models in PyTorch and TensorFlow
-
-
 ## Technical skills
 
 **Programming:** Python, C++, SQL  
-**Data & ML:** machine learning, deep learning, data structures, algorithms, PyTorch, TensorFlow  
+**Data & ML:** machine learning, deep learning, data structures, algorithms
 **Systems & tools:** Git, Linux, Arduino, computer architecture  
 
 ## Selected achievements
@@ -60,13 +40,5 @@ I am actively building my ML/DL foundation through:
 - 1st place at the National Robotics Olympiad
 - Finalist at the Robotex International Olympiad in Estonia
 - Finalist at the National Math Olympiad
-- Team tutor for an international RoboChallenge competition team in RomaniaR
+- Team tutor for an international RoboChallenge competition team in Romania
 - Advanced Robotics Programming Tutor at the Armenian Robotics Alliance
-
-- Robotics teacher at the Learning Room
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/emma-karapetyan-770482231)
-- [GitHub](https://github.com/EmmaKarapetyan)
-- [Email](mailto:emma.karapetyan2007@gmail.com)

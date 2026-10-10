@@ -42,3 +42,9 @@ Relevant focus areas:
 - Finalist at the National Math Olympiad
 - Team tutor for an international RoboChallenge competition team in Romania
 - Advanced Robotics Programming Tutor at the Armenian Robotics Alliance
+
+## Selected Projects
+
+- **[Malware Family Classification](https://github.com/EmmaKarapetyan/MalwareFamilyClassification)** — Built a Python pipeline to compare a custom CNN trained from scratch with frozen ResNet50 and VGG16 models on 26 MaleVis malware-family classes. The custom CNN achieved **91.74% test macro-F1 in the recorded run**; the report also discusses the comparison's limitations.
+- **[CPU Emulator](https://github.com/EmmaKarapetyan/cpu-emulator)** — Built an educational C++ register-based CPU emulator with a custom instruction set, memory, a fetch–decode–execute loop, and automated tests.
+- **[Lyrics Studio](https://github.com/EmmaKarapetyan/text_editor)** — Built a browser-based editor for timing lyrics/subtitles to local media, with in-browser transcription and subtitle video export.

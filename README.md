@@ -47,7 +47,8 @@ I like understanding how systems work, solving difficult problems, and turning i
 
 **Team Tutor** — RoboChallenge international competition team, Romania · Oct 2026 - Nov 2026 (also Jan 2025 – Nov 2025)
 
-- Led a team of 3 building three mini-sumo Arduino robots, each with a different strategy (aggressive, evasive, hybrid), for a competition with 180+ teams
+- Led a team of 3 building two mini-sumo robots, each with a different strategy (aggressive, evasive, hybrid), for a competition with 180+ teams
+- Led a team of 3 building nxp track follower robot, for a competition with 30+ teams
 
 ## Education
 

@@ -11,7 +11,7 @@ I like understanding how systems work, solving difficult problems, and turning i
 ## What I bring
 
 - A strong mathematical and algorithmic foundation from competitive programming and olympiad training
-- Hands-on programming in Python, C++ and JavaScript, from a deep learning pipeline to a CPU emulator and a browser app
+- Hands-on programming in Python, C++ and JavaScript, etc, from a deep learning pipeline to a CPU emulator and a browser app
 - Hands-on experience with robotics, Arduino and PCB design
 - Experience explaining technical concepts and teaching 20+ students
 - Curiosity, persistence, and an engineering mindset focused on building and improving systems
@@ -34,19 +34,20 @@ I like understanding how systems work, solving difficult problems, and turning i
 - **2025** — Ukrainian Junior & Girls' Olympiads in Informatics: bronze medal
 - **2025** — National Robotics Olympiad, Armenia: 1st place out of 40 teams
 - **2025** — National Math Olympiad, regional stage: finalist (also 2018 and 2020)
-- **2024** — Robotex International, Tallinn, Estonia: finalist, 10th place out of 20 teams
+- **2024** — Robotex International, Tallinn, Estonia: finalist, 10th place out of 20 teams: represented Armenia 
 - **2022** — Iranian Combinatorics Olympiad: bronze medal
 
 ## Experience
 
-**Advanced Robotics Programming Tutor** — Armenian Robotics Alliance · Sep 2025 – present
+**Advanced Robotics Programming Tutor** — Armenian Robotics Alliance · Sep 2025 – Sep 2026
 
 - Teach robotics and programming to 20+ students, in person and remotely
-- Delivered a complete Arduino curriculum with hands-on hardware projects; now teaching Python for machine learning
+- Delivered a complete Arduino curriculum with hands-on hardware projects
+- Teach Python for machine learning
 
-**Team Tutor** — RoboChallenge international competition team, Romania · Jan 2025 – Nov 2025
+**Team Tutor** — RoboChallenge international competition team, Romania · Oct 2026 - Nov 2026 (also Jan 2025 – Nov 2025)
 
-- Led a team of 3 building three mini-sumo Arduino robots, each with a different strategy (aggressive, evasive, hybrid), for a competition with 175+ teams
+- Led a team of 3 building three mini-sumo Arduino robots, each with a different strategy (aggressive, evasive, hybrid), for a competition with 180+ teams
 
 ## Education
 

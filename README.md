@@ -11,16 +11,16 @@ I like understanding how systems work, solving difficult problems, and turning i
 ## What I bring
 
 - A strong mathematical and algorithmic foundation from competitive programming and olympiad training
-- Hands-on programming in Python, C++ and JavaScript, etc, from a deep learning pipeline to a CPU emulator and a browser app
+- Hands-on programming in Python, C++ and JavaScript, from a deep learning pipeline to a CPU emulator and a browser app
 - Hands-on experience with robotics, Arduino and PCB design
 - Experience explaining technical concepts and teaching 20+ students
 - Curiosity, persistence, and an engineering mindset focused on building and improving systems
 
 ## Selected projects
 
-- **[Malware Family Classification](https://github.com/EmmaKarapetyan/MalwareFamilyClassification)** — Built a Python pipeline to compare a custom CNN trained from scratch with frozen ResNet50 and VGG16 models on 26 MaleVis malware-family classes. The custom CNN achieved **91.74% test macro-F1 in the recorded run**; the report also discusses the comparison's limitations.
-- **[CPU Emulator](https://github.com/EmmaKarapetyan/cpu-emulator)** — Built an educational C++ register-based CPU emulator with a custom instruction set, memory, a fetch–decode–execute loop, and automated tests.
-- **[Lyrics Studio](https://github.com/EmmaKarapetyan/Lyrics_Studio)** ([live demo](https://emmakarapetyan.github.io/Lyrics_Studio/)) — Built a browser-based editor for timing lyrics/subtitles to local media, with in-browser transcription and subtitle video export.
+- **[Malware Family Classification](https://github.com/EmmaKarapetyan/MalwareFamilyClassification)** — Built a Python pipeline that compares a custom CNN trained from scratch with frozen ImageNet ResNet50 and VGG16 on MaleVis images of binary files (25 malware families plus a benign class). The custom CNN scored best, with **91.74% test macro-F1** in the recorded run. Error analysis showed that most mistakes were benign files labeled as malware; the report also covers overfitting and the comparison's limitations.
+- **[CPU Emulator](https://github.com/EmmaKarapetyan/cpu-emulator)** — Built an educational register-based CPU emulator in C++17: a custom set of 16 instructions, byte-addressed RAM, I/O devices and a fetch–decode–execute loop, with a factorial demo program and 51 automated checks.
+- **[Lyrics Studio](https://github.com/EmmaKarapetyan/Lyrics_Studio)** ([live demo](https://emmakarapetyan.github.io/Lyrics_Studio/)) — Built a browser app for making lyric videos. Meta's MMS speech model runs in the browser and times the lyrics to the song by forced alignment (CTC), including Armenian songs; the user corrects the timing on a timeline, and FFmpeg compiled to WebAssembly exports the MP4. No server.
 
 ## Technical skills
 
@@ -34,21 +34,21 @@ I like understanding how systems work, solving difficult problems, and turning i
 - **2025** — Ukrainian Junior & Girls' Olympiads in Informatics: bronze medal
 - **2025** — National Robotics Olympiad, Armenia: 1st place out of 40 teams
 - **2025** — National Math Olympiad, regional stage: finalist (also 2018 and 2020)
-- **2024** — Robotex International, Tallinn, Estonia: finalist, 10th place out of 20 teams: represented Armenia 
+- **2024** — Robotex International, Tallinn, Estonia: represented Armenia; finalist, 10th place out of 20 teams
 - **2022** — Iranian Combinatorics Olympiad: bronze medal
 
 ## Experience
 
 **Advanced Robotics Programming Tutor** — Armenian Robotics Alliance · Sep 2025 – Sep 2026
 
-- Teach robotics and programming to 20+ students, in person and remotely
+- Taught robotics and programming to 20+ students, in person and remotely
 - Delivered a complete Arduino curriculum with hands-on hardware projects
-- Teach Python for machine learning
+- Taught Python for machine learning
 
-**Team Tutor** — RoboChallenge international competition team, Romania · Oct 2026 - Nov 2026 (also Jan 2025 – Nov 2025)
+**Team Tutor** — RoboChallenge international competition team, Romania · Jan–Nov 2025 and Oct–Nov 2026
 
-- Led a team of 3 building two mini-sumo robots, each with a different strategy (aggressive, evasive, hybrid), for a competition with 180+ teams
-- Led a team of 3 building nxp track follower robot, for a competition with 30+ teams
+- Led a team of 3 building two mini-sumo robots, each with a different strategy, for a competition with 180+ teams
+- Led a team of 3 building an NXP track-following robot for a competition with 30+ teams
 
 ## Education
 

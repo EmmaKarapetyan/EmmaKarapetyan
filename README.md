@@ -24,9 +24,9 @@ I like understanding how systems work, solving difficult problems, and turning i
 
 ## Technical skills
 
-**Programming:** Python, C++, SQL, JavaScript  
-**Data & ML:** machine learning, deep learning, TensorFlow/Keras, PyTorch, data structures, algorithms  
-**Systems & tools:** Git, Linux, Arduino, PCB design, computer architecture
+**Programming:** Python, C++, SQL  
+**Data & ML:** machine learning, deep learning, data structures, algorithms  
+**Systems & tools:** Git, Linux, PCB design, computer architecture
 
 ## Selected achievements
 
